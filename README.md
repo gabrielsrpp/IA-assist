@@ -1,4 +1,4 @@
-# IA Assist - Engenharia de Software Local 🤖
+# IA Assist - 🤖
 
 Este projeto simples consiste num assistente de Inteligência Artificial desenvolvido para rodar totalmente de forma local. Utiliza modelos de linguagem de última geração (LLMs) para responder a dúvidas técnicas, garantindo privacidade de dados e custo zero de API.
 
