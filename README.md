@@ -1,4 +1,5 @@
 # IA Assist - 🤖
+<img width="704" height="764" alt="image" src="https://github.com/user-attachments/assets/1131b84f-996c-4685-83d1-65bceb135b6c" />
 
 Este projeto simples consiste num assistente de Inteligência Artificial desenvolvido para rodar totalmente de forma local. Utiliza modelos de linguagem de última geração (LLMs) para responder a dúvidas técnicas, garantindo privacidade de dados e custo zero de API.
 
